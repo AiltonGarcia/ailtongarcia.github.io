@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/AiltonGarcia/ailtongarcia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hola soy Ailton Gamaliel tengo 16 años y soy estudiante del cetis 32  "Jose Vasconcelos" voy en sexto semestre y  estudiare la ingenieria en sistemas o la mecanica automotriz me gusta  jugar videojuegos, ver series, escuchar musica, jugar futbol y salir a la calle.
 
 ### Markdown
 
