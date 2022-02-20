@@ -3,6 +3,8 @@ Hola soy Ailton Gamaliel tengo 16 años y soy estudiante del cetis 32  "Jose Vas
 
 ### Markdown
 En el futbol juego de defensa o delantero,  los videojuegos que suelo jugar son el Call od Duty,  Clash Royale,  Rocket League, GTA V, Fall  Guys y Minecraft 
+Quiero estudiar la Ingenieria en Sistemas Compputacionalk en la ESCOM - IPN 
+Tambien tengo una  mascota llamada Days y  me gusta mucho pasar tiempo con ella o sacarla a pasear 
 ```markdown
 Syntax highlighted code block
 
