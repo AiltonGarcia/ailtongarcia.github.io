@@ -2,9 +2,7 @@
 Hola soy Ailton Gamaliel tengo 16 años y soy estudiante del cetis 32  "Jose Vasconcelos" voy en sexto semestre y  estudiare la ingenieria en sistemas o la mecanica automotriz me gusta  jugar videojuegos, ver series, escuchar musica, jugar futbol y salir a la calle.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+En el futbol juego de defensa o delantero,  los videojuegos que suelo jugar son el Call od Duty,  Clash Royale,  Rocket League, GTA V, Fall  Guys y Minecraft 
 ```markdown
 Syntax highlighted code block
 
