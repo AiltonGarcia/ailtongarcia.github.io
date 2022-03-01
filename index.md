@@ -21,7 +21,7 @@ Tengo una mascota llamada Daysi normalmnete paso tiempo con ella o la saco a pas
 * Me gusta salir con mi familia 
 * Me gustan las cadenas y los relojes 
 
-### Metas
+### Mis  Metas 
 
 *  Comprarle una casa  a mis padres
 *  Tener un bbuen empleo 
