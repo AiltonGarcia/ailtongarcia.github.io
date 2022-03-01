@@ -1,4 +1,4 @@
-## Welcome to  mi pagina 
+# Bienvenido a mi pagina web
 Hola soy Ailton Gamaliel tengo 16 años y soy estudiante del cetis 32  "Jose Vasconcelos" voy en sexto semestre y  estudiare la ingenieria en sistemas o la mecanica automotriz me gusta  jugar videojuegos, ver series, escuchar musica, jugar futbol y salir a la calle.
 
 ###  Datos  curio
