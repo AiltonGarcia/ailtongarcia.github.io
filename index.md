@@ -1,34 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to  mi pagina 
 Hola soy Ailton Gamaliel tengo 16 años y soy estudiante del cetis 32  "Jose Vasconcelos" voy en sexto semestre y  estudiare la ingenieria en sistemas o la mecanica automotriz me gusta  jugar videojuegos, ver series, escuchar musica, jugar futbol y salir a la calle.
 
-### Markdown
+###  Datos  curio
 En el futbol juego de defensa o delantero,  los videojuegos que suelo jugar son el Call od Duty,  Clash Royale,  Rocket League, GTA V, Fall  Guys y Minecraft 
 Quiero estudiar la Ingenieria en Sistemas Compputacionalk en la ESCOM - IPN 
-Tambien tengo una  mascota llamada Days y  me gusta mucho pasar tiempo con ella o sacarla a pasear 
-```markdown
-Syntax highlighted code block
+Tengo una mascota llamada Daysi normalmnete paso tiempo con ella o la saco a pasear y tambien tengo una cacion favorita que es la de Tu y Yo de Santa Fe Klan ```markdown
+## Habilidades
 
-# Header 1
-## Header 2
-### Header 3
+* Soy bueno  en el futbol
+* Se algo de mecanica por mi papa
+* Puedo desarmar cosas y volverrlas a armar 
+* Aprendo mas rapido viendo y no 
+## Gustos 
 
-- Bulleted
-- List
+* Me gusta vestir con ropa holgada
+* Me gustan los tenis de la marca Nike 
+* Mi cantante favorito es Santa  Fe Klan y La  Santa Grifa
+*  Me gusta practicar Box 
+* Me gusta mucho el Rap
+* Me gusta salir con mi familia 
+* Me gustan las cadenas y los relojes 
 
-1. Numbered
-2. List
+### Metas
 
-**Bold** and _Italic_ and `Code` text
+*  Comprarle una casa  a mis padres
+*  Tener un bbuen empleo 
+*  Tener una casa propia
+*  Tener el carro de mis sueños
+* Acabar mis estudios 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AiltonGarcia/ailtongarcia.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###  Redes 
+Facebook: https://www.facebook.com/ailton.ga.54
+Instagram: https://instagram.com/ailtongama238?utm_medium=copy_link
