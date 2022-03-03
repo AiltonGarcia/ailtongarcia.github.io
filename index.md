@@ -1,6 +1,7 @@
 # Bienvenido a mi pagina web
 Hola soy Ailton Gamaliel tengo 16 años y soy estudiante del cetis 32  "Jose Vasconcelos" voy en sexto semestre y  estudiare la ingenieria en sistemas o la mecanica automotriz me gusta  jugar videojuegos, ver series, escuchar musica, jugar futbol y salir a la calle.
 
+[CURIOSOS](./datos.md)
 ###  Datos  curio
 En el futbol juego de defensa o delantero,  los videojuegos que suelo jugar son el Call od Duty,  Clash Royale,  Rocket League, GTA V, Fall  Guys y Minecraft 
 Quiero estudiar la Ingenieria en Sistemas Compputacionalk en la ESCOM - IPN 
