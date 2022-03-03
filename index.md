@@ -6,6 +6,8 @@ Hola soy Ailton Gamaliel tengo 16 años y soy estudiante del cetis 32  "Jose Vas
 En el futbol juego de defensa o delantero,  los videojuegos que suelo jugar son el Call od Duty,  Clash Royale,  Rocket League, GTA V, Fall  Guys y Minecraft 
 Quiero estudiar la Ingenieria en Sistemas Compputacionalk en la ESCOM - IPN 
 Tengo una mascota llamada Daysi normalmnete paso tiempo con ella o la saco a pasear y tambien tengo una cacion favorita que es la de Tu y Yo de Santa Fe Klan ```markdown
+
+[HABILIDADES](./habilidades.md)
 ## Habilidades
 
 * Soy bueno  en el futbol
